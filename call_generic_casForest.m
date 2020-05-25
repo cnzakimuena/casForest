@@ -24,7 +24,7 @@ function  call_generic_casForest()
 % Acknowledgements -
 %           Dedicated to my brother Olivier Belanger-Nzakimuena.
 %
-% License - BSD
+% License - MIT
 %
 % Change History -
 %                   25th May 2020 - Creation by Charles Belanger Nzakimuena
