@@ -96,8 +96,7 @@ recall = zeros(1,max(numY));
 for i = 1:numFolds
     test = (indices == i);
     train = ~test;
-    
-    % *per B-scan performance results*
+
     deepCas_gen(mainFolder, X(train,:), numY(train,:), hyperP)
     class = deepCas_pred(mainFolder, X(test,:), numY);
     
