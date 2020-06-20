@@ -1,5 +1,9 @@
 # casForest
-The casForest package is a MATLAB implementation of the cascade Deep Forest proposed by Zhou & Feng (2017).
+The casForest package is a MATLAB implementation of the cascade Deep Forest.
+
+The Deep Forest model is described in:
+
+Z.-H. Zhou and J. Feng, "Deep forest," arXiv preprint arXiv:1702.08835, 2017.
 
 usage:
 
