@@ -1,5 +1,5 @@
 # casForest
-The casForest package is a MATLAB implementation of the cascade Deep Forest.
+casForest is a MATLAB implementation of the cascade Deep Forest.
 
 The Deep Forest model is described in:
 
