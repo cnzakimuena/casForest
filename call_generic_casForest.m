@@ -4,8 +4,7 @@ function  call_generic_casForest()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name - call_generic_casForest
 % Creation Date - 25th May 2020
-% Author - Charles Belanger Nzakimuena
-% Website - https://www.ibis-space.com/
+% Author - C. M. Belanger Nzakimuena
 %
 % Description - Function to load data and call generic cascade Deep Forest 
 %   functions
@@ -27,7 +26,7 @@ function  call_generic_casForest()
 % License - MIT
 %
 % Change History -
-%                   25th May 2020 - Creation by Charles Belanger Nzakimuena
+%                   25th May 2020 - Creation by C. M. Belanger Nzakimuena
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
