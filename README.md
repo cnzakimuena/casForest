@@ -1,5 +1,5 @@
 # casForest
-Script for classification with cascade Deep Forest ([Zhou & Feng, 2019](https://doi.org/10.1093/nsr/nwy108)). The Iris dataset ([Anderson, 1935](https://wiki.irises.org/pub/Hist/Info1986SIGNA37/SIGNA_37.pdf); [Anderson, 1936](https://doi.org/10.2307/2394164); [Fisher, 1936](https://doi.org/10.1111/j.1469-1809.1936.tb02137.x)) is used for demonstration. The implementation is compatible with MATLAB R2019b.
+Script for classification with Cascade Deep Forest ([Zhou & Feng, 2019](https://doi.org/10.1093/nsr/nwy108)). The Iris dataset ([Anderson, 1935](https://wiki.irises.org/pub/Hist/Info1986SIGNA37/SIGNA_37.pdf); [Anderson, 1936](https://doi.org/10.2307/2394164); [Fisher, 1936](https://doi.org/10.1111/j.1469-1809.1936.tb02137.x)) is used for demonstration. The implementation is compatible with MATLAB R2019b.
 
 Usage:
 
